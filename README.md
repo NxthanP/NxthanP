@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Python Developer<br>- RPA<br>- Data Science</p>
+<p align="left">- Python Developer<br>- RPA<br>- Cyber Security</p>
 
 ###
 
