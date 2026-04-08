@@ -18,8 +18,8 @@
 ║  [+] HANDLE      >>  0xNATHAN                                    ║
 ║  [+] FUNÇÃO      >>  Blue Team Security Analyst                  ║
 ║  [+] OBJETIVO    >>  Senior em Cybersegurança                    ║
-║  [+] ORIGEM      >>  Brasil [ -15.7801° S, -47.9292° W ]        ║
-║  [*] STATUS      >>  ████████░░ 80% — em campo                  ║
+║  [+] ORIGEM      >>  Brasil [ -15.7801° S, -47.9292° W ]         ║
+║  [*] STATUS      >>  ████████░░ 80% — em campo                   ║
 ║  [!] FILOSOFIA   >>  Aprendizado constante                       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -85,17 +85,17 @@ Discovered open ports:
 
 ```json
 {
-  "operator"       : "0xNATHAN",
-  "status"         : "[ ACTIVE ] em progresso",
+  "operator": "0xNATHAN",
+  "status": "[ ACTIVE ] em progresso",
   "current_mission": [
     "DevSecOps",
     "Segurança Ofensiva",
     "Cloud Security"
   ],
-  "next_level"     : "Senior em Cybersegurança",
-  "certs_queued"   : [ "eJPT", "CompTIA Security+", "AZ-900" ],
-  "philosophy"     : "Aprendizado constante",
-  "threat_level"   : "CRESCENTE ▲"
+  "next_level": "Senior em Cybersegurança",
+  "certs_queued": [ "eJPT", "CompTIA Security+", "AZ-900" ],
+  "philosophy": "Aprendizado constante",
+  "threat_level": "CRESCENTE ▲"
 }
 ```
 
@@ -139,7 +139,7 @@ root@0xNATHAN:~$ ss -tulpn | grep LISTEN
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  "O hacker não invade sistemas —                                 ║
-║   ele entende o que o desenvolvedor não quis entender."          ║
+║          ele entende o que o desenvolvedor não quis entender."   ║
 ║                                                                  ║
 ║                                          -- 0xNATHAN             ║
 ╚══════════════════════════════════════════════════════════════════╝
